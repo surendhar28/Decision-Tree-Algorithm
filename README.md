@@ -1,2 +1,2 @@
-# Decision-Tree-Algorithm
-Basics Decision tree alogorithm in machine learning 
+#Support Vector Machine
+Basics of svm
